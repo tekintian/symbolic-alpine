@@ -1,0 +1,5 @@
+dist/
+build/
+symbolic.egg-info
+symbolic/_lowlevel__lib.so
+*.pyc

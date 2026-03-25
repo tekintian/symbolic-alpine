@@ -1,0 +1,9 @@
+[workspace]
+members = [
+    "symbolic*",
+    "examples/*",
+]
+
+[profile.release]
+debug = true
+lto = true

@@ -1,0 +1,14 @@
+Metadata-Version: 1.0
+Name: symbolic
+Version: 8.0.3
+Summary: A Alpine Linux python library for dealing with symbol files and more.
+Home-page: https://github.com/tekintian/sentry-symbolic
+Author: Tekintian
+Author-email: tekintian@gmail.com
+License: MIT
+Description: Symbolic
+        --------
+        
+        Symbolic is a Python library that can work with debug symbol files.
+        
+Platform: Alpine Linux
