@@ -184,13 +184,13 @@ def build_native(spec):
 
 
 setup(
-    name="symbolic",
+    name="symbolic-alpine",
     version=version,
     packages=find_packages(),
     author="Sentry",
     license="MIT",
     author_email="hello@sentry.io",
-    description="A python library for dealing with symbol files and more.",
+    description="Symbolic library for Alpine Linux - A python library for dealing with symbol files and more.",
     long_description=readme,
     include_package_data=True,
     zip_safe=False,
