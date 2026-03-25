@@ -1,6 +1,6 @@
 dist/
 build/
-symbolic.egg-info
 symbolic/_lowlevel__lib.so
 *.pyc
 *.lock
+*.egg-info

@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 import os
 import re
 import sys
@@ -187,9 +188,9 @@ setup(
     name="symbolic-alpine",
     version=version,
     packages=find_packages(),
-    author="Sentry",
+    author="tekintian",
     license="MIT",
-    author_email="hello@sentry.io",
+    author_email="tekintian@gmail.com",
     description="Symbolic library for Alpine Linux - A python library for dealing with symbol files and more.",
     long_description=readme,
     include_package_data=True,
